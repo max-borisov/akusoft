@@ -8,6 +8,9 @@ a:focus,
 a:hover {
   color: #fff;
 }
+a {
+    text-decoration: underline;
+}
 
 /* Custom default button */
 .btn-default,
@@ -104,6 +107,12 @@ body {
   }
 }
 
+/*
+ * Custom styles
+ */
+.social-profiles {
+    font-size: 15px;
+}
 
 /*
  * Cover
